@@ -1,4 +1,4 @@
-##Linear Regression Model with PyTorch
+## Linear Regression Model with PyTorch
 
 This repository contains a Python script demonstrating the workflow for building and training a simple linear regression model using PyTorch. Linear regression is a fundamental supervised learning technique used for modeling the relationship between a dependent variable and one or more independent variables.
 
